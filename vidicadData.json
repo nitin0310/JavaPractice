@@ -2,6 +2,11 @@
   "Playlists": 
   [
     {
+      "Punjabi": {
+        "index":"0",
+        "Songs":
+        [
+          {
             "url":"https://www.youtube.com/watch?v=Ph7Udak9dx4"
           },
           {
@@ -10,5 +15,23 @@
           {
             "url":"https://www.youtube.com/watch?v=N0YsKKvfYqM"
           }
+        ]
+      },
+      "Hindi": {
+        "index":"",
+        "Songs":
+        [
+          {
+            "url":"https://www.youtube.com/watch?v=Ph7Udak9dx4"
+          },
+          {
+            "url":"https://www.youtube.com/watch?v=_LpXnpYTw7w"
+          },
+          {
+            "url":"https://www.youtube.com/watch?v=N0YsKKvfYqM"
+          }
+        ]
+      }
+    }
   ]
 }
